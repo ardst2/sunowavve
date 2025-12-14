@@ -1,0 +1,5 @@
+{
+  "name": "SunoWave",
+  "description": "A high-fidelity clone of the Suno AI music generation interface allowing users to generate songs and covers using the Suno API.",
+  "requestFramePermissions": []
+}
